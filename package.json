@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node app.js"
+    "start": "nodemon app.js"
   },
   "author": "Bishal Jimee",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "nodemon": "^3.0.1"
+    "mysql2": "^3.6.5",
+    "nodemon": "^3.0.1",
+    "sequelize": "^6.35.1"
   }
 }
