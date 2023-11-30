@@ -1,7 +1,7 @@
 
 const { tasks }  = require("../../model");
 
-exports.renderCreatetasks = async(req,res)=>{
+exports.CreateTasks = async(req,res)=>{
     // console.log("request received")
     const { title,Status } = req.body;
 
