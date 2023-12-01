@@ -12,16 +12,4 @@ router.route("/GetAllTasks").get( renderAlltasks)
 //Single Read,Update Route, Delete Route
 router.route("/:id").get(renderSingleTask).put(updateTask).delete(deleteTask)
 
-
-//SingleRead Route
-// router.route("/SingleTask/:id").get(renderSingleTask)
-
-
-//DeleteRoute
-// router.route("/DeleteTask/:id").delete(deleteTask)
-
-//updateRoute
-// router.route("/UpdateTask/:id").put(updateTask)
-
-
 module.exports = router;
