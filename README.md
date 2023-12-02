@@ -6,7 +6,10 @@ This application showcases my skills in backend development, API design, and dat
 
 ## Special Acknowledgement
 
-I want to express my gratitude to Hunchha Digital Team for providing me with the opportunity to showcase my skills and contribute to this project.The guidance and support from the Hunchha Digital team have been instrumental in my professional development during this internship application process.
+I extend my heartfelt gratitude to the entire Hunchha Digital Team for providing me with the valuable opportunity to showcase my skills and contribute to the Backend Intern Shortlisting Assignment. The guidance and support from the Hunchha Digital team have been pivotal in my assignment completion during this internship application process.
+I sincerely appreciate the confidence Hunchha Digital has shown in shortlisting me and assigning this task. It has been an enriching experience, and I am eager to further explore the potential collaboration during the internship.
+
+Thank you, Hunchha Digital, for the opportunity and support.
 
 ## Table of Contents
 
